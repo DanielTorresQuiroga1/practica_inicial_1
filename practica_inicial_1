@@ -1,0 +1,9 @@
+git clone: Este comando se utiliza para copiar un repositorio remoto en tu computadora local.
+git pull: Este comando actualiza tu repositorio local para que coincida con la versión más reciente del repositorio remoto.
+git checkout: Este comando te permite cambiar entre diferentes ramas o versiones de tu proyecto.
+git log: Este comando muestra un historial de todos los commits realizados en el repositorio.
+git branch: Este comando se utiliza para listar, crear o eliminar ramas en tu repositorio.
+git add: Este comando agrega archivos a tu área de preparación para que estén listos para hacer un commit.
+git commit: Este comando crea un nuevo commit (o "instantánea") de los cambios en tu repositorio que hayas añadido a tu área de preparación.
+git push: Este comando sube los cambios que hayas hecho en tu repositorio local al repositorio remoto.
+git merge: Este comando combina los cambios de una rama a otra. Por lo general, se usa para combinar los cambios de una rama de trabajo a la rama principal
